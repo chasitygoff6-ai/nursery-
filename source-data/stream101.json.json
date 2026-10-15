@@ -1,0 +1,256 @@
+{
+  "Readings": [
+    {
+      "dateTime": "03/11/2026 05:00 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.3,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:00 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.3,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:00 PM",
+      "roomNumber": 337,
+      "roomTempF": 71.0,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:00 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.6,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:30 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.3,
+ "roomHumidity": null,
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 05:30 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.4,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:30 PM",
+      "roomNumber": 337,
+      "roomTempF": 71.0,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 05:30 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.5,
+ "roomHumidity": null,
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 06:00 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.7,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 06:00 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.4,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 06:00 PM",
+      "roomNumber": 337,
+      "roomTempF": 71.1,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 06:00 PM",
+      "roomNumber": 345,
+      "roomTempF": 72.1,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 06:30 PM",
+      "roomNumber": 305,
+      "roomTempF": 72.0,
+ "roomHumidity": null,
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 06:30 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.3,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 06:30 PM",
+      "roomNumber": 337,
+      "roomTempF": 71.3,
+ "roomHumidity": null,
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 06:30 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.8,
+ "roomHumidity": null,
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 07:00 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.4,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:00 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.5,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:00 PM",
+      "roomNumber": 337,
+      "roomTempF": 70.7,
+ "roomHumidity": null,
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:00 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.5,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:30 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.3,
+ "roomHumidity": null, 
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 07:30 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.2,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:30 PM",
+      "roomNumber": 337,
+      "roomTempF": 71.2,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 07:30 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.7,
+ "roomHumidity": null, 
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 08:00 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.7,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:00 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.2,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:00 PM",
+      "roomNumber": 337,
+      "roomTempF": 70.4,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:00 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.5,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:30 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.4,
+ "roomHumidity": null, 
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 08:30 PM",
+      "roomNumber": 334,
+      "roomTempF": 72.0,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:30 PM",
+      "roomNumber": 337,
+      "roomTempF": 70.7,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 08:30 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.2,
+ "roomHumidity": null, 
+      "doorStatus": "open"
+    },
+    {
+      "dateTime": "03/11/2026 09:00 PM",
+      "roomNumber": 305,
+      "roomTempF": 71.5,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 09:00 PM",
+      "roomNumber": 334,
+      "roomTempF": 71.6,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 09:00 PM",
+      "roomNumber": 337,
+      "roomTempF": 70.6,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    },
+    {
+      "dateTime": "03/11/2026 09:00 PM",
+      "roomNumber": 345,
+      "roomTempF": 71.5,
+ "roomHumidity": null, 
+      "doorStatus": "closed"
+    }
+  ]
+}
