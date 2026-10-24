@@ -1,0 +1,13 @@
+event_datetime,room,person_id,person_type,access_status,room_reading_time,room_temp_f,door_status,patient_id,vitals_reading_time,heart_rate_bpm,breathing_rate_per_min,patient_temp_f
+2026-03-11 18:02,305,D3001,Doctor,Granted,2026-03-11 18:00,71.7,closed,,,,,
+2026-03-11 18:04,345,G4006,Parent,Granted,2026-03-11 18:00,72.1,closed,,,,,
+2026-03-11 18:09,334,P1002,Patient,Granted,2026-03-11 18:00,72.4,closed,P1002,2026-03-11 18:05,145,46,98.5
+2026-03-11 18:14,334,D3001,Doctor,Granted,2026-03-11 18:00,72.4,closed,P1002,2026-03-11 18:10,143,44,98.8
+2026-03-11 18:16,334,G4003,Parent,Granted,2026-03-11 18:00,72.4,closed,P1002,2026-03-11 18:15,141,44,98.4
+2026-03-11 18:27,337,D3001,Doctor,Granted,2026-03-11 18:00,71.1,closed,,,,,
+2026-03-11 18:28,305,N2001,Nurse,Granted,2026-03-11 18:00,71.7,closed,,,,,
+2026-03-11 18:30,345,N2002,Nurse,Granted,2026-03-11 18:30,71.8,open,,,,,
+2026-03-11 18:33,334,N2001,Nurse,Granted,2026-03-11 18:30,72.3,closed,P1002,2026-03-11 18:30,145,43,98.5
+2026-03-11 18:38,337,N2001,Nurse,Granted,2026-03-11 18:30,71.3,open,,,,,
+2026-03-11 18:41,345,D3001,Doctor,Granted,2026-03-11 18:30,71.8,open,,,,,
+2026-03-11 18:47,305,G4001,Parent,Granted,2026-03-11 18:30,72.0,open,,,,,
